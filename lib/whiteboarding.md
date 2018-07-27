@@ -42,8 +42,8 @@ Think of the board as having 3 parts:
 
 ![3 Parts of the White Board](https://media.git.generalassemb.ly/user/8618/files/9c3e6832-918c-11e8-8f14-7f2f9dcaf640)
 
-
-The first part, on the far left, is for your notes. Fill in this section as the
+The first part, on the far left, is for your notes. The notes section is
+intentionally smaller than the others. Fill in this section as the
 interviewer is reading off their question. Ask follow up questions and record
 the answers here.
 
