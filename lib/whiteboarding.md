@@ -32,6 +32,33 @@ your interviewers have every right to say "No" to your request!
 When the timer goes off, take a seat in front of your interviewers so you can
 debrief.
 
+#### How to use the white board
+
+When you get up in front of the white board, one of the things you'll notice is
+that they're often really big. Additionally, your first instinct is probably
+going to be to start writing code as soon as you hear the prompt.
+
+Think of the board as having 3 parts:
+
+![3 Parts of the White
+Board](https://drive.google.com/file/d/1N-ZfGPVbMFI3R820DNopb5581rgecRd_/view?usp=sharing)
+
+The first part, on the far left, is for your notes. Fill in this section as the
+interviewer is reading off their question. Ask follow up questions and record
+the answers here.
+
+The second part is for your pseudocode. Write out bullet points for how you'd
+solve this problem, step-by-step. If you realize you missed something, write it
+in between the other lines of psedocode. Cross reference your pseudocode with
+your notes on the prompt. Talk through what you're doing and why as you write
+your pseudocode.
+
+The third part is for actual code. Give yourself the entire space to fill in
+your code! So if you need to write a function, put `function(parameter) {` at
+the very top and the closing `}` at the very bottom. Your code does not have to
+be 100% correct (no one is going to execute it). Work through your pseudocode as
+you write your actual code.
+
 ### Interview Instructions
 
 When the candidate is ready, read their prompt out loud to them. If they have
