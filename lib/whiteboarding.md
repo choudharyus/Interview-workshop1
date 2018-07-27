@@ -40,8 +40,8 @@ going to be to start writing code as soon as you hear the prompt.
 
 Think of the board as having 3 parts:
 
-![3 Parts of the White
-Board](https://drive.google.com/file/d/1N-ZfGPVbMFI3R820DNopb5581rgecRd_/view?usp=sharing)
+![3 Parts of the White Board](https://media.git.generalassemb.ly/user/8618/files/9c3e6832-918c-11e8-8f14-7f2f9dcaf640)
+
 
 The first part, on the far left, is for your notes. Fill in this section as the
 interviewer is reading off their question. Ask follow up questions and record
