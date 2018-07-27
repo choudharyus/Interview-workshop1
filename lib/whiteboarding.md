@@ -25,8 +25,12 @@ prompt on the white board as the prompt is being read to you.
 
 As you work on the solution, talk it out. The goal is not to arrive at the
 correct answer, but rather to convey how you would approach solving the problem.
+If you get stuck, ask if you can google something quickly. Don't google the
+answer to the problem, but a small piece of information that you need. Note that
+your interviewers have every right to say "No" to your request!
 
-When the timer goes off, take a seat in front of your interviewers!
+When the timer goes off, take a seat in front of your interviewers so you can
+debrief.
 
 ### Interview Instructions
 
@@ -37,12 +41,15 @@ only provide information that they ask for!
 Watch the candidate as they white board and take notes. You're looking for them
 to talk through their thinking and explain not only what they're doing but why
 they're doing it a certain way. Stop them and ask them why they're approaching
-the problem they way that they are.
+the problem they way that they are. If they pause or appear to be stuck, let
+them work through it on their own.
 
 When the timer goes off, have the candidate take a seat. First, ask them what
 they thought went well. Then discuss the prompt and their process with them.
 
-Try to debrief each question as a group for at least 10 minutes.
+Try to debrief each question as a group for at least 10 minutes. That can be
+discussing the problem, researching the prompt (only after the "interview" is
+complete!), and talking through solving the problem as a group.
 
 ## Prompts
 
@@ -69,7 +76,7 @@ Try to debrief each question as a group for at least 10 minutes.
 <details>
   <summary>Prompt</summary>
 
-  A linked list is a list structure made of of nodes where each node contains
+  A linked list is a list structure made up of nodes where each node contains
   a value and a reference to the next node in the list:
 
   ![Linked
@@ -89,15 +96,13 @@ Try to debrief each question as a group for at least 10 minutes.
 
   e.g.:
 
+  ```js
   isAnagram("", "") = true
-
   isAnagram("A", "A") = true
-
   isAnagram("A", "B") = false
-
   isAnagram("ab", "ba") = true
-
   isAnagram("AB", "ab") = true
+  ```
 
   [Source](https://www.byte-by-byte.com/anagrams/)
 
@@ -108,9 +113,11 @@ Try to debrief each question as a group for at least 10 minutes.
 
   New York City has the highest population of any city in the U.S., with
   8,550,405 people. Bonanza, Utah has the smallest population with only 1 person
-  living in it (his name is John).
+  living in it.
 
-  How would you calculate the exact population of the United States.
+  How could you roughly calculate the population of the United States.
+
+  > Note to Interviewers: the population of the US is 325.7 million
 </details>
 
 <details>
@@ -121,11 +128,11 @@ Try to debrief each question as a group for at least 10 minutes.
 
   e.g.:
 
+  ```js
   largestDifference([1, 3]) // => 2
-
   largestDifference([1, 3, 8]) // => 5
-
   largestDifference([1, 3, 8, 0, 9]) // => 9
+  ```
 
 </details>
 
@@ -141,15 +148,15 @@ Try to debrief each question as a group for at least 10 minutes.
 <details>
   <summary>Prompt</summary>
 
-  Given two strings of integers, write a function that will return the number
-  of common characters.
+  Given two unsorted strings, write a function that will return the number of common
+  characters.
 
   e.g.:
 
-  commonChars('abc', 'abc') // => 3
-
-  commonChars('aef','hqa') // => 1
-
-  commonChars('ferlv','evlrf') // => 5
+  ```js
+    commonChars('abc', 'abc') // => 3
+    commonChars('aef','hqa') // => 1
+    commonChars('ferlv','evlrf') // => 5
+  ```
 
 </details>

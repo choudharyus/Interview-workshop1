@@ -31,11 +31,37 @@ own set of questions for you and your team to work through.
 
 You'll get to work at each station at least once!
 
+### Schedule
+
+Your group will work at each station for 50 minutes, with 10 minutes to take
+a break and move to the next station (1 hour total).
+
+| Time | Session |
+| --- | --- |
+| 9:30 - 10:30 | Session 1 |
+| 10:30 - 11:30 | Session 2 |
+| 11:30 - 12:30 | Session 3 |
+| 12:30 - 1:30 | Lunch Break |
+| 1:30 - 2:30 | Session 4 |
+| 2:30 - 3:30 | Session 5 |
+| 3:30 - 4:30 | Session 6 |
+
+### Getting the most out of this workshop
+
+The more seriously you and your group take this, the more you will all get out
+of it.
+
+We're role playing the interview process, which will help you feel more
+comfortable when you're in an actual interview. When you are acting as an
+interviewer, it's best not to interject or comment on how you solve a problem.
+Instead, take notes. When you are the candidate, treat your interviewers as if
+they were actually interviewing you for a job and not your fellow students.
+
 ## Requirements
 
 ### [1. Whiteboarding](lib/whiteboarding.md)
 
-The white boarding portion of this workshop will provide you with prompts which
+The whiteboarding portion of this workshop will provide you with prompts which
 each group member will answer on a white board. Your code does not have to be
 perfect!
 
