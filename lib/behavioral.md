@@ -2,18 +2,18 @@
 
 Behavioral interview questions are a great way to break the ice during an
 interview. The questions will be pretty general and a way for the interviewer to
-learn a little bit about the candidate.
+learn a little bit about you as a candidate.
 
 That said, they are not questions you want to take lightly! Think of them as
-easy points: with a little practice, you will be able to come up with a great
+easy points. With a little practice, you will be able to come up with a great
 answer on the spot.
 
 ## Instructions
 
-Work through the list of questions below, one by one. For each question, spend
-5 minutes jotting down notes for what you want to say when asked that particular
-questions. This should be done as a team! Work together, trade ideas, and help
-each other refine what you want to say.
+Work through the list of questions below, one by one. Spend around 20 minutes
+reading through the questions and jotting down notes for what you want to say in
+your answer to each question. This should be done as a team! Work together,
+trade ideas, and help each other refine what you want to say.
 
 Once you have some notes for each question, it's interview time! Each group
 member will take turns being the candidate (the one answering questions) and the
@@ -22,8 +22,9 @@ one side of the table, across from the interviewers. Interviewers should take
 turns asking a question from the list below. Don't ask questions in order,
 instead ask a random question from the list.
 
-If you are the candidate, use your phone to record the audio of your answer to
-each question.
+When you are the candidate, use your phone to record the audio of your answer to
+each question. Play the audio of your answer back and take notes on how you
+sound. Then have the interviewers ask you the same question again!
 
 ## Questions:
 

@@ -16,36 +16,36 @@ for 20 minutes.
 
 If you are the candidate, you want to solve the challenge but you also want to
 walk through how you approach the problem and what you're thinking about. It's
-important to keep talking as you work through the problem.
+important to keep talking as you work through the problem!
 
 ## Challenges
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   Complete [this codewars challenge](https://www.codewars.com/kata/mexican-wave)
-</detail>
+</details>
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   Complete [this codewars
   challenge](https://www.codewars.com/kata/missing-alphabet/train/javascript)
-</detail>
+</details>
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   Take this [tabs UI](https://codepen.io/ZakkMann/pen/LBzpwz) and convert it from jQuery to vanilla JavaScript
-</detail>
+</details>
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   Complete [this codewars challenge](https://www.codewars.com/kata/single-word-pig-latin/train/python)
-</detail>
+</details>
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   The following code will convert a number into it's Roman Numeral equivalent.
@@ -54,47 +54,47 @@ important to keep talking as you work through the problem.
 
   [Starter Code](https://repl.it/@ZakkMan/toRoman)
 
-</detail>
+</details>
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   Fix the sidebar in [this codepen](https://codepen.io/chriscoyier/pen/ClGcF)
-</detail>
+</details>
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   Complete [this codewars challenge](https://www.codewars.com/kata/get-all-array-elements-except-those-with-specified-indexes/train/javascript)
-</detail>
+</details>
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   Implement this mock of an image slider in codepen.
 
   [Mock](https://drive.google.com/file/d/1Xvz_cah732YDF0k4jRYhYB_TYiEWsrTQ/view?usp=sharing)
-</detail>
+</details>
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   The design of the website in the codepen below is set to a fixed width of
   800px. Can you make it responsive?
 
   [Codepen](https://codepen.io/chriscoyier/pen/lDJmf)
-</detail>
+</details>
 
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   Complete [this codewars challenge](https://www.codewars.com/kata/sequences-and-series)
-</detail>
+</details>
 
-<detail>
+<details>
   <summary>Code Challenge</summary>
 
   Complete [this codewars challenge](https://www.codewars.com/kata/highest-scoring-word/train/python)
-</detail>
+</details>
 

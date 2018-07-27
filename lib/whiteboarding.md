@@ -3,7 +3,7 @@
 Whiteboarding is a common practice in technical interviews. The goal is to
 convey how you think through a challenging problem and what steps you'd take to
 get started. You do not need to arrive at a solution or write perfect code. In
-fact, think of it as writing detailed pseudocode to a challenge.
+fact, think of it as writing detailed pseudocode.
 
 ## Instructions
 
@@ -13,7 +13,9 @@ and the interviewers (the ones reading and assessing the prompt).
 If you are the candidate, stand up at the white board without looking at your
 prompt. One of the interviewers should read out the prompt to you and set
 a timer for 10 minutes. The candidate should work through the prompt until the
-timer goes off.
+timer goes off. If you feel like you've solved the problem before the timer goes
+off, start to talk and think through ways to make your code faster or more
+efficient.
 
 ### Candidate Instructions
 
@@ -39,6 +41,8 @@ the problem they way that they are.
 
 When the timer goes off, have the candidate take a seat. First, ask them what
 they thought went well. Then discuss the prompt and their process with them.
+
+Try to debrief each question as a group for at least 10 minutes.
 
 ## Prompts
 
@@ -86,9 +90,13 @@ they thought went well. Then discuss the prompt and their process with them.
   e.g.:
 
   isAnagram("", "") = true
+
   isAnagram("A", "A") = true
+
   isAnagram("A", "B") = false
+
   isAnagram("ab", "ba") = true
+
   isAnagram("AB", "ab") = true
 
   [Source](https://www.byte-by-byte.com/anagrams/)
@@ -114,7 +122,9 @@ they thought went well. Then discuss the prompt and their process with them.
   e.g.:
 
   largestDifference([1, 3]) // => 2
+
   largestDifference([1, 3, 8]) // => 5
+
   largestDifference([1, 3, 8, 0, 9]) // => 9
 
 </details>
@@ -137,7 +147,9 @@ they thought went well. Then discuss the prompt and their process with them.
   e.g.:
 
   commonChars('abc', 'abc') // => 3
+
   commonChars('aef','hqa') // => 1
+
   commonChars('ferlv','evlrf') // => 5
 
 </details>
