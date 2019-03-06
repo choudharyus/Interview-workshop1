@@ -33,18 +33,29 @@ You'll get to work at each station at least once!
 
 ### Schedule
 
-Your group will work at each station for 50 minutes, with 10 minutes to take
-a break and move to the next station (1 hour total).
+Your group will work at each station for 80 minutes, with 10 minutes to take
+a break and move to the next station (1 1/2 hours total).
+
+Thursday: 
 
 | Time | Session |
 | --- | --- |
-| 9:30 - 10:30 | Session 1 |
-| 10:30 - 11:30 | Session 2 |
-| 11:30 - 12:30 | Session 3 |
+| 9:00 - 11:00 | Interview Workshop w/Ted Whitehead |
+| 11:00 - 12:30 | Session 1 |
 | 12:30 - 1:30 | Lunch Break |
-| 1:30 - 2:30 | Session 4 |
-| 2:30 - 3:30 | Session 5 |
-| 3:30 - 4:30 | Session 6 |
+| 1:30 - 3:00 | Session 2 |
+| 3:00 - 4:30 | Session 3 |
+
+Friday: 
+
+| Time | Session |
+| --- | --- |
+| 9:00 - 10:30 | Session 4 | 
+| 10:30 - 12:00 | Session 5 |
+| 12:00 - 1:30 | Lunch Break |
+| 1:30 - 2:30 | Project 4 Discussion / Study Hall / Checkpoint Retake |
+| 3:00 - 4:30 | Session 6 |
+
 
 ### Getting the most out of this workshop
 
