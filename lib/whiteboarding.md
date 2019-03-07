@@ -11,17 +11,19 @@ Each group member will take turns being the candidate (the one whiteboarding)
 and the interviewers (the ones reading and assessing the prompt).
 
 If you are the candidate, stand up at the white board without looking at your
-prompt. One of the interviewers should read out the prompt to you and set
-a timer for 10 minutes. The candidate should work through the prompt until the
+prompt. One of the interviewers should read out the prompt to you and set a
+timer for 10 minutes. The candidate should work through the prompt until the
 timer goes off. If you feel like you've solved the problem before the timer goes
 off, start to talk and think through ways to make your code faster or more
 efficient.
 
 ### Candidate Instructions
 
-The prompt will be read off to you. Ask clarifying questions if something seems
-unclear, then start whiteboarding. It's a good idea to take notes about the
-prompt on the white board as the prompt is being read to you.
+The prompt will be read off to you. **Ask clarifying questions** if something
+seems unclear, then start whiteboarding. It's a good idea to take notes about
+the prompt on the white board as the prompt is being read to you. Sometimes the
+questions are intentionally vague, and the interviewers want to see how you deal
+with that - so ask questions!
 
 As you work on the solution, talk it out. The goal is not to arrive at the
 correct answer, but rather to convey how you would approach solving the problem.
@@ -43,9 +45,9 @@ Think of the board as having 3 parts:
 ![3 Parts of the White Board](https://media.git.generalassemb.ly/user/8618/files/9c3e6832-918c-11e8-8f14-7f2f9dcaf640)
 
 The first part, on the far left, is for your notes. The notes section is
-intentionally smaller than the others. Fill in this section as the
-interviewer is reading off their question. Ask follow up questions and record
-the answers here.
+intentionally smaller than the others. Fill in this section as the interviewer
+is reading off their question. Ask follow up questions and record the answers
+here.
 
 The second part is for your pseudocode. Write out bullet points for how you'd
 solve this problem, step-by-step. If you realize you missed something, write it
@@ -83,107 +85,110 @@ complete!), and talking through solving the problem as a group.
 <details>
   <summary>Prompt</summary>
 
-  Given an array of integers, write a function that returns a sorted list of all the
-  duplicates in the array.
+Given an array of integers, write a function that returns a sorted list of all
+the duplicates in the array.
 
-  e.g.:
+e.g.:
 
-  ```js
-    dups([1, 2, 3])    // = []
-    dups([1, 2, 2])    // = [2]
-    dups([3, 3, 3])    // = [3]
-    dups([2, 1, 2, 1]) // = [1, 2]
-  ```
+```js
+dups([1, 2, 3]) // = []
+dups([1, 2, 2]) // = [2]
+dups([3, 3, 3]) // = [3]
+dups([2, 1, 2, 1]) // = [1, 2]
+```
 
-  How would you make your solution more efficient?
+How would you make your solution more efficient?
 
-  [Source](https://www.byte-by-byte.com/findduplicates/)
+[Source](https://www.byte-by-byte.com/findduplicates/)
+
 </details>
 
 <details>
   <summary>Prompt</summary>
 
-  A linked list is a list structure made up of nodes where each node contains
-  a value and a reference to the next node in the list:
+A linked list is a list structure made up of nodes where each node contains a
+value and a reference to the next node in the list:
 
-  ![Linked
+![Linked
   List](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/pix/linkedlist.bmp)
 
-  Given an unsorted linked list, write a function that removes all duplicates
-  (i.e. returns a new linked list containing only the unique values).
+Given an unsorted linked list, write a function that removes all duplicates
+(i.e. returns a new linked list containing only the unique values).
 
-  [Source](https://www.byte-by-byte.com/deduplinkedlist/)
-
-</details>
-
-<details>
-  <summary>Prompt</summary>
-
-  Given two strings, write a function to determine whether they are anagrams.
-
-  e.g.:
-
-  ```js
-  isAnagram("", "") = true
-  isAnagram("A", "A") = true
-  isAnagram("A", "B") = false
-  isAnagram("ab", "ba") = true
-  isAnagram("AB", "ab") = true
-  ```
-
-  [Source](https://www.byte-by-byte.com/anagrams/)
+[Source](https://www.byte-by-byte.com/deduplinkedlist/)
 
 </details>
 
 <details>
   <summary>Prompt</summary>
 
-  New York City has the highest population of any city in the U.S., with
-  8,550,405 people. Bonanza, Utah has the smallest population with only 1 person
-  living in it.
+Given two strings, write a function to determine whether they are anagrams.
 
-  How could you roughly calculate the population of the United States.
+e.g.:
 
-  > Note to Interviewers: the population of the US is 325.7 million
-</details>
+```js
+isAnagram("", "") = true
+isAnagram("A", "A") = true
+isAnagram("A", "B") = false
+isAnagram("ab", "ba") = true
+isAnagram("AB", "ab") = true
+```
 
-<details>
-  <summary>Prompt</summary>
-
-  Given an array of numbers, write a function that returns the largest
-  difference between two consecutive numbers in the array.
-
-  e.g.:
-
-  ```js
-  largestDifference([1, 3]) // => 2
-  largestDifference([1, 3, 8]) // => 5
-  largestDifference([1, 3, 8, 0, 9]) // => 9
-  ```
+[Source](https://www.byte-by-byte.com/anagrams/)
 
 </details>
 
 <details>
   <summary>Prompt</summary>
 
-  Given two integers, write a function that swaps them without using any temporary variables.
+New York City has the highest population of any city in the U.S., with 8,550,405
+people. Bonanza, Utah has the smallest population with only 1 person living in
+it.
 
-  [Source](https://www.byte-by-byte.com/swapvariables/)
+How could you roughly calculate the population of the United States.
+
+> Note to Interviewers: the population of the US is 325.7 million
 
 </details>
 
 <details>
   <summary>Prompt</summary>
 
-  Given two unsorted strings, write a function that will return the number of common
-  characters.
+Given an array of numbers, write a function that returns the largest difference
+between two consecutive numbers in the array.
 
-  e.g.:
+e.g.:
 
-  ```js
-    commonChars('abc', 'abc') // => 3
-    commonChars('aef','hqa') // => 1
-    commonChars('ferlv','evlrf') // => 5
-  ```
+```js
+largestDifference([1, 3]) // => 2
+largestDifference([1, 3, 8]) // => 5
+largestDifference([1, 3, 8, 0, 9]) // => 9
+```
+
+</details>
+
+<details>
+  <summary>Prompt</summary>
+
+Given two integers, write a function that swaps them without using any temporary
+variables.
+
+[Source](https://www.byte-by-byte.com/swapvariables/)
+
+</details>
+
+<details>
+  <summary>Prompt</summary>
+
+Given two unsorted strings, write a function that will return the number of
+common characters.
+
+e.g.:
+
+```js
+commonChars("abc", "abc") // => 3
+commonChars("aef", "hqa") // => 1
+commonChars("ferlv", "evlrf") // => 5
+```
 
 </details>
