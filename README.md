@@ -40,21 +40,21 @@ Thursday:
 
 | Time | Session |
 | --- | --- |
-| 9:00 - 11:00 | Interview Workshop w/Ted Whitehead |
-| 11:00 - 12:30 | Session 1 |
+| 9:30 - 11:00  | Session 1 |
+| 11:00 - 12:30 | Session 2 |
 | 12:30 - 1:30 | Lunch Break |
-| 1:30 - 3:00 | Session 2 |
-| 3:00 - 4:30 | Session 3 |
+| 1:30 - 3:00 | Session 3 |
+| 3:00 - 4:30 | Session 4 |
 
 Friday: 
 
 | Time | Session |
 | --- | --- |
-| 9:00 - 10:30 | Session 4 | 
-| 10:30 - 12:00 | Session 5 |
+| 9:00 - 10:30 | Session 5 | 
+| 10:30 - 12:00 | Session 6 |
 | 12:00 - 1:30 | Lunch Break |
-| 1:30 - 2:30 | Project 4 Discussion / Study Hall / Checkpoint Retake |
-| 3:00 - 4:30 | Session 6 |
+| 1:30 - 3:00 | Session 7 |
+| 3:00 - 5:00 | Project 4 Intro / Ideas / Portfolio time |
 
 
 ### Getting the most out of this workshop
